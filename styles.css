@@ -1,0 +1,26 @@
+h1 {
+    color: #C0CFB2;
+    background-color: #49654E;
+    padding: 20px;
+}
+body {
+    font-family: Cambria;
+    background-color: #C0CFB2;
+    color: #E4E6D9;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1000px;
+    height: 945px;
+    margin: 0 auto;
+    background-color: #8BA889;
+    padding: 20px;
+}
+footer {
+    clear: both;
+    text-align: center;
+    padding: 10px;
+    background-color: #253528;
+    color:#E4E6D9;
+}
