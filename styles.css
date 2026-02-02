@@ -1,7 +1,12 @@
 h1 {
     color: #C0CFB2;
     background-color: #49654E;
+    border: 2px solid #253528;
+    text-align: center;
     padding: 20px;
+}
+h3 {
+    display: none;
 }
 body {
     font-family: Cambria;
@@ -12,10 +17,13 @@ body {
 }
 .container {
     width: 1000px;
-    height: 945px;
+    height: 1050px;
     margin: 0 auto;
     background-color: #8BA889;
     padding: 20px;
+}
+.spacer p {
+    visibility: hidden;
 }
 footer {
     clear: both;
